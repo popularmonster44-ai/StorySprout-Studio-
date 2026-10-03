@@ -1,0 +1,6 @@
+{
+  "name": "StorySprout - AI Kid's Storybook Studio",
+  "description": "Interactive AI storybook studio for kids that generates stories, reads them aloud, creates page illustrations (1K, 2K, 4K), and includes a multi-turn AI chatbot companion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
